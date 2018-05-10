@@ -20,7 +20,4 @@ Lightly composed by
 		http://bitsytask.com/
 		http://mafkr.com/
 		
-Who is CC Carter anyways?
-	http://wickedfire.com/
-	
-IFRoaXMgaXMgb3VyIHdvcmxkIG5vdy4uLiB0aGUgd29ybGQgb2YgdGhlIGVsZWN0cm9uIGFuZCB0aGUgc3dpdGNoLCB0aGUNCmJlYXV0eSBvZiB0aGUgYmF1ZC4
+
